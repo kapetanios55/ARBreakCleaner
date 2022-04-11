@@ -1,5 +1,5 @@
 # ARBreakCleaner
-Cleans Break Characters from Analytic Rules 
+Cleans Break Characters from Analytic Rules - Helps with Troubleshooting Securty Alerts 
 
 Steps:
 
